@@ -7,7 +7,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
 ## 📊 Project Overview
-This project analyzes **1,000 reported scam incidents** within the Education and IT sectors between **2022 and 2026**.
+This project analyzes **1,000+ reported scam incidents** within the Education and IT sectors between **2022 and 2026**.
 
 The goal was to identify the most prevalent scam types, vulnerable platforms, and seasonal trends to create awareness and provide data-driven insights for safer digital navigation. The analysis reveals that job-related fraud is the most significant threat to students and professionals.
 

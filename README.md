@@ -12,8 +12,7 @@ This project analyzes **1,000+ reported scam incidents** within the Education an
 The goal was to identify the most prevalent scam types, vulnerable platforms, and seasonal trends to create awareness and provide data-driven insights for safer digital navigation. The analysis reveals that job-related fraud is the most significant threat to students and professionals.
 
 ## 🖼️ Dashboard Preview
-![Dashboard Preview](<img width="1125" height="643" alt="image" src="https://github.com/user-attachments/assets/fa8baee6-ca86-4565-a4e9-e32b31c0cda1" />
-)
+<img src="https://github.com/user-attachments/assets/fa8baee6-ca86-4565-a4e9-e32b31c0cda1" width="100%" alt="Dashboard Preview">
 
 ## 📂 Dataset Description
 The dataset consists of **1,000 rows** of reported scam incidents with the following key attributes:
